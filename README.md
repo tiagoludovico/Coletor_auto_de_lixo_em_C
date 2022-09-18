@@ -2,7 +2,7 @@
 
 Esse trabalho tinha como objetivo implemetar um coletor automaático de lixo em linguagem C utilizando a técnica de contagem de referências.
 
-## Biblioteca libconteref.h
+## Biblioteca contref.h
 
 ### Esse biblioteca é constituída de:
  Uma estrutura de lista que tem como objetivo armazenar um endereço de memória, um contandor para a quantidade de ponteiros que aponta para esse endereço e um ponteiro para o próximo endereço de memória.
