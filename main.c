@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include<stdlib.h>
-#include "libconteref.h"
+#include "contref.h"
 
 int main(void){
     int* v = malloc2(sizeof(int));
