@@ -13,4 +13,3 @@ Esse trabalho tinha como objetivo implemetar um coletor automaático de lixo em 
 - dump(): Essa função tem como objetivo mostrar como está a memória para o usuário, além disso, ela também verifica se o endereço e lixo de memória, caso ele seja, essa função com auxílio da função remover() elimina esse endereço da memória;
 - imprimir(endereço): Essa função tem como objetivo imprimir o endereço e o conteúdo de uma variável do tipo int;
 - imprimir2(endereço): Essa função tem como objetivo imprimir o endereço e o conteúdo de uma variável do tipo char;
-
